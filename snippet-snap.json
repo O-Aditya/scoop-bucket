@@ -1,19 +1,19 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/O-Aditya/Snippet-snap/releases/download/v1.1.0/snippet-snap_windows_amd64.zip",
+            "url": "https://github.com/O-Aditya/Snippet-snap/releases/download/v1.2.0/snippet-snap_windows_amd64.zip",
             "bin": [
-                "snap.exe"
+                "snip.exe"
             ],
-            "hash": "8733628f17945e1428e233bde22ff69a1bc6f67fa4bd652f6fda2c6a60430eaa"
+            "hash": "23875243d842f20442ea2e145d914fdc17f3ce3c632f5072a81c8421f6fdfb4a"
         },
         "arm64": {
-            "url": "https://github.com/O-Aditya/Snippet-snap/releases/download/v1.1.0/snippet-snap_windows_arm64.zip",
+            "url": "https://github.com/O-Aditya/Snippet-snap/releases/download/v1.2.0/snippet-snap_windows_arm64.zip",
             "bin": [
-                "snap.exe"
+                "snip.exe"
             ],
-            "hash": "b340189fedde03d4c70a42689bfc535d1a63e048a0402b8cf0201afc6573575c"
+            "hash": "f226c09ec20bdd3e1631306a4204320b508dea2397921160dcab650c4306b63b"
         }
     },
     "homepage": "https://github.com/O-Aditya/Snippet-snap",
