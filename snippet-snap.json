@@ -1,0 +1,22 @@
+{
+    "version": "1.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/O-Aditya/Snippet-snap/releases/download/v1.1.0/snippet-snap_windows_amd64.zip",
+            "bin": [
+                "snap.exe"
+            ],
+            "hash": "8733628f17945e1428e233bde22ff69a1bc6f67fa4bd652f6fda2c6a60430eaa"
+        },
+        "arm64": {
+            "url": "https://github.com/O-Aditya/Snippet-snap/releases/download/v1.1.0/snippet-snap_windows_arm64.zip",
+            "bin": [
+                "snap.exe"
+            ],
+            "hash": "b340189fedde03d4c70a42689bfc535d1a63e048a0402b8cf0201afc6573575c"
+        }
+    },
+    "homepage": "https://github.com/O-Aditya/Snippet-snap",
+    "license": "MIT",
+    "description": "Fast CLI for saving, searching, and reusing code snippets"
+}
